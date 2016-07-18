@@ -1,6 +1,11 @@
 CKAN-Metadata-Generator
 #######################
 
+Obsolete
+========
+
+This repository only exists for documentation purposes - development moved to https://github.com/janbrohl/ksp-ckan-metadata-webtool
+
 Current Status
 ==============
 
